@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DigitalFontAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a163c763a25ac6546b18c38c42498b6e, type: 3}
+    - {fileID: 2800000, guid: bb6a0ed21aa1dd541948895cdfe7dc80, type: 3}
+    - {fileID: 2800000, guid: b081efae573def24283d0d59ef48ea4a, type: 3}
+    - {fileID: 2800000, guid: afc2b0adc26e24d4c8fed76ed3ec8c47, type: 3}
+    - {fileID: 2800000, guid: f50ebdbef1157644ebb5df58f85db83f, type: 3}
+    - {fileID: 2800000, guid: 988065177e142e84b80c87123c699dc1, type: 3}
+    - {fileID: 2800000, guid: c6623342318c29941bc0220919476aa3, type: 3}
+    - {fileID: 2800000, guid: e178a6b7c40d14c47a9ed42a2acac676, type: 3}
+    - {fileID: 2800000, guid: a38ca6ce249688c479b4b2767fcb6767, type: 3}
+    - {fileID: 2800000, guid: 68121d6e5f6794c4a87d5738f240edcd, type: 3}
+    totalSpriteSurfaceArea: 3610
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c6623342318c29941bc0220919476aa3, type: 3}
+  - {fileID: 21300000, guid: bb6a0ed21aa1dd541948895cdfe7dc80, type: 3}
+  - {fileID: 21300000, guid: a163c763a25ac6546b18c38c42498b6e, type: 3}
+  - {fileID: 21300000, guid: 988065177e142e84b80c87123c699dc1, type: 3}
+  - {fileID: 21300000, guid: e178a6b7c40d14c47a9ed42a2acac676, type: 3}
+  - {fileID: 21300000, guid: afc2b0adc26e24d4c8fed76ed3ec8c47, type: 3}
+  - {fileID: 21300000, guid: 68121d6e5f6794c4a87d5738f240edcd, type: 3}
+  - {fileID: 21300000, guid: b081efae573def24283d0d59ef48ea4a, type: 3}
+  - {fileID: 21300000, guid: f50ebdbef1157644ebb5df58f85db83f, type: 3}
+  - {fileID: 21300000, guid: a38ca6ce249688c479b4b2767fcb6767, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - numeral6
+  - numeral1
+  - numeral0
+  - numeral5
+  - numeral7
+  - numeral3
+  - numeral9
+  - numeral2
+  - numeral4
+  - numeral8
+  m_RenderDataMap: {}
+  m_Tag: DigitalFontAtlas
+  m_IsVariant: 0
